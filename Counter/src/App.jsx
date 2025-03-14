@@ -24,7 +24,7 @@ function App(){
             fontFamily: 'revert-layer'
             }}>
                 <button onClick={decrement}>-</button>
-                <p>{num}</p>
+                <h2>{num}</h2>
                 <button onClick={increment}>+</button>
         </div>
         </>
